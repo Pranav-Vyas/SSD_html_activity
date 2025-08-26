@@ -1,0 +1,16 @@
+body{
+    height: 100vh;
+}
+.header{
+    display: flex;
+    flex-direction: column;
+    height: 200px;
+    margin-bottom: 50px;
+}
+img{
+    height: 100%;
+    width: 200px;
+}
+.about{
+    margin-bottom: 50px;
+}
